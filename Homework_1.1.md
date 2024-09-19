@@ -9,8 +9,7 @@
 2. But if we focus on the bioinformatics area, a model typically refers to a **computational representation** of biological data, such as the hidden Markov model, deep learning, and linear regression. These models were built based on algorithms.
 ### 1c. Conclusion
 An algorithm is a method to process biological data, while a model is built using an algorithm to represent or predict biological phenomena.
-
 ## 2. Study Plan for Bioinformatics
-  1. Read the related papers and chapters before the lecture
-  2. Practice the coding skills
-  3. Finish homework and try to do a project
+1. Read the related papers and chapters before the lecture
+2. Practice the coding skills
+3. Finish homework and try to do a project
