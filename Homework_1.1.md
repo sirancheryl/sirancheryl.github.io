@@ -7,6 +7,7 @@
 ### 1b. Model
 1. The definition of **model** is broad. In mathematical logic, model is a structure consists of a set along with a collection of finitary operations and relations that are defined on it([Wikipedia](https://en.wikipedia.org/wiki/Structure_(mathematical_logic))). 
 2. But if we focus on the bioinformatics area, a model typically refers to a **computational representation** of biological data, such as the hidden Markov model, deep learning, and linear regression. These models were built based on algorithms.
+
 ### 1c. Conclusion
 An algorithm is a method to process biological data, while a model is built using an algorithm to represent or predict biological phenomena.
 
